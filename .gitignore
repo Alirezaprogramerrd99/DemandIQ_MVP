@@ -1,0 +1,15 @@
+exm.ipynb
+__pycache__/
+.venv/
+dist/
+checkpoints/
+wandb/
+datasets/
+results/
+timesfm_pytorch.egg-info/
+
+exp2.ipynb
+exm.ipynb
+
+.github/
+timesfm/.github/
